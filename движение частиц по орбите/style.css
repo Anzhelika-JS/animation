@@ -1,0 +1,7 @@
+body {
+    margin: 0px; /*убираем отступы*/
+    overflow: hidden; /* убираем прокрутку*/
+}
+canvas {
+    background: rgb(22, 22,22);
+}
